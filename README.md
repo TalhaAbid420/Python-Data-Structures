@@ -34,10 +34,3 @@ jupyter notebook python_ds_fundamentals.ipynb
 
 Every cell runs top to bottom with no external dependencies — just the Python
 standard library (`collections.Counter`, `collections.deque`).
-
-## Background
-
-This came out of a "Day 1-2" prep task before starting DSA practice — build a solid
-base in the language's standard collections before jumping into problems. Also went
-through codebasics' Data Structures in Python playlist on YouTube alongside this.
-#
